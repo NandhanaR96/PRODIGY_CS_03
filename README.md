@@ -9,20 +9,27 @@ The Password Strength Assessment Tool is a simple yet effective utility designed
 ## Features
 
   1.Length Check: Assesses if the password meets the minimum length requirement.
+  
   2.Character Variety: Checks for the presence of:
                         - Uppercase letters (A-Z)
                         - Lowercase letters (a-z)
                         - Numbers (0-9)
                         - Special characters (e.g., !@#$%^&*)
+                        
   3.Strength Feedback: Provides a clear indication of password strength (e.g., Weak, Moderate, Strong).
+  
   4.User -Friendly Interface: Simple and intuitive design for easy use.
 
   ## Usage
 
    1.Open the Password Strength Assessment Tool in your web browser or run the application.
+   
    2.Enter the password you want to assess in the provided input field.
+   
    3.Click the "Assess Password" button.
+   
    4.Review the feedback provided regarding the strength of your password.
+   
 ## Criteria for Password Strength
 
    - Weak: Less than 8 characters, or lacks variety (uppercase, lowercase, numbers, special characters).
