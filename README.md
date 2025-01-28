@@ -40,6 +40,16 @@ The Password Strength Assessment Tool is a simple yet effective utility designed
 
    - Inspired by best practices in password security.
    - Thanks to the open-source community for their contributions and support.
+
+# Sample Output
+
+Enter a password to assess its strength: password123!
+password123!
+
+Password Strength: Strong
+Feedback:
+- Password should contain at least one uppercase letter.
+
 ## Contact
 
 For any questions or feedback, please reach out to nnandhana96@gmail.com .
